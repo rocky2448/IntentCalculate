@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntentCalculator</string>
+    <string name="calculate_button">Калькулятор</string>
+    <string name="result_textview">Результат</string>
+    <string name="title">Калькулятор</string>
+    <string name="resultTV">Результат</string>
+    <string name="buttonLoadToMainBTN">Передать данные</string>
+    <string name="buttonExitBTN">Exit</string>
+    <string name="buttonSummBTN">+</string>
+    <string name="buttonDiffBTN">-</string>
+    <string name="buttonMultBTN">*</string>
+    <string name="buttonDivBTN">/</string>
+</resources>
